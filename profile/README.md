@@ -1,4 +1,4 @@
-# 캘린더 일기장 (Calendar Diary)
+# DAILY MOOD 🟦
 
 ## 소개
 캘린더 일기장은 Flutter로 개발된 모바일 앱으로, 날짜별로 일기를 작성하고 관리할 수 있는 애플리케이션입니다. Material Design 3를 적용한 모던한 UI와 직관적인 사용자 경험을 제공합니다.
