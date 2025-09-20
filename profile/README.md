@@ -48,7 +48,7 @@
 ### 백엔드
 - Django
 - Django REST Framework
-- SQLite (개발용) → PostgreSQL/MySQL로 확장 가능
+- SQLite
 <br/>
 
 <img width="1900" height="1065" alt="image" src="https://github.com/user-attachments/assets/28df6f5d-94b2-4afe-9741-64b3a14eaa30" />
