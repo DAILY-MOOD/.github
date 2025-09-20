@@ -1,6 +1,8 @@
 # 📘 DAILY MOOD
   
 **DAILY MOOD**는 단순한 일기 관리 앱을 넘어, 사용자의 감정을 기록하고 분석하여 **사회적 약자(청소년, 노약자, 장애인 등)의 정서적 돌봄**을 지원하는 서비스입니다.  
+
+<img width="1908" height="1068" alt="image" src="https://github.com/user-attachments/assets/8bd86d93-1499-4a97-b510-08e0753cc3e3" />
   
 - 🔍 **감정 기록 & 추적** : 작성된 일기를 바탕으로 감정 분석을 수행해 사용자의 정서 상태를 파악합니다.  
 - ❤️‍🩹 **심리적 지원 가능성** : 일정 기간 부정적 감정 패턴이 지속적으로 감지되면, 상담 지원이나 커뮤니티 연계와 같은 확장 서비스를 고려할 수 있습니다.  
@@ -44,6 +46,8 @@
 - Django
 - Django REST Framework
 - SQLite (개발용) → PostgreSQL/MySQL로 확장 가능
+
+<img width="1900" height="1065" alt="image" src="https://github.com/user-attachments/assets/28df6f5d-94b2-4afe-9741-64b3a14eaa30" />
   
   
   
